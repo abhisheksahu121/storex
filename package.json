@@ -1,5 +1,5 @@
 {
-  "name": "grp-project",
+  "name": "storex",
   "version": "1.0.0",
   "description": "platform to connect shopkeeper ",
   "main": "server.js",
